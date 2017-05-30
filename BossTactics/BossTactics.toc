@@ -1,0 +1,18 @@
+﻿## Interface: 20400
+## Title: BossTactics|cffdf6003[Main]|r   |cff7fff7f -Ace3-|r
+## Notes: Make it easy to explain bosses in Raids.
+## Notes-deDE: Oberfläche zu Bosstaktiken.
+## Author: Sorontur
+## Version: 1.0
+## X-Category: Raid
+## SavedVariables: BossTacticsDB
+## OptionalDeps:Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+
+Locale-enUS.lua
+Locale-deDE.lua
+BossTactics.lua
+Gui.lua
+Instances.lua

@@ -1,0 +1,16 @@
+﻿## Interface: 20400
+## Title: BossTactics|cffdf6003[BlackTemple]|r
+## Notes: BT instance module for BossTactics.
+## Notes-deDE: BT Instanzmodul für BossTactics.
+## Author: Sorontur, Vonswan
+## Version: 0.1
+## LoadOnDemand: 1
+## RequiredDeps: BossTactics
+## OptionalDeps:Ace3
+## X-Embeds: Ace3
+## X-Category: Raid
+## SavedVariables: BT_BlackTempleDB
+
+Locale-enUS.lua
+Locale-deDE.lua
+BT_BlackTemple.lua

@@ -1,0 +1,16 @@
+﻿## Interface: 20400
+## Title: BossTactics|cffdf6003[BC Outdoor]|r
+## Notes: BC Outdoor instance module for BossTactics. Backport by Healserino from Excalibur
+## Notes-deDE: BC Outdoor Instanzmodul für BossTactics. Backport by Healserino from Excalibur
+## Author: Sorontur, Vonswan
+## Version: 1.0
+## LoadOnDemand: 1
+## RequiredDeps: BossTactics
+## OptionalDeps:Ace3
+## X-Embeds: Ace3
+## X-Category: Raid
+## SavedVariables: BT_BCoutDB
+
+Locale-enUS.lua
+Locale-deDE.lua
+BT_BCout.lua
