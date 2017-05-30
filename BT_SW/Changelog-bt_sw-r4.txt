@@ -1,0 +1,40 @@
+Backport to 2.4.3 | Healserino from Excalibur TBC | 2016-11-27 16:24:19 +0100 (Sun, 27 Nov 2016)
+------------------------------------------------------------------------
+r4 | sorontur | 2008-11-04 08:16:19 +0000 (Tue, 04 Nov 2008) | 1 line
+Changed paths:
+   M /trunk/Locale-enUs.lua
+
+another english tactics bug fixed
+------------------------------------------------------------------------
+r3 | sorontur | 2008-11-03 10:53:54 +0000 (Mon, 03 Nov 2008) | 1 line
+Changed paths:
+   M /trunk/Locale-enUs.lua
+
+little spelling bug for english clients
+------------------------------------------------------------------------
+r2 | sorontur | 2008-10-19 09:30:18 +0000 (Sun, 19 Oct 2008) | 1 line
+Changed paths:
+   A /trunk/BT_SW.lua
+   A /trunk/BT_SW.toc
+   A /trunk/Img
+   A /trunk/Img/map_sw_felmyst1.tga
+   A /trunk/Img/map_sw_felmyst2.tga
+   A /trunk/Img/map_sw_kalecgos1.tga
+   A /trunk/Img/map_sw_kalecgos2.tga
+   A /trunk/Img/map_sw_kiljaeden.tga
+   A /trunk/Img/map_sw_muru.tga
+   A /trunk/Img/map_sw_twins1.tga
+   A /trunk/Img/map_sw_twins2.tga
+   A /trunk/Locale-deDe.lua
+   A /trunk/Locale-enUs.lua
+
+initial import
+------------------------------------------------------------------------
+r1 | root | 2008-10-19 09:29:45 +0000 (Sun, 19 Oct 2008) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+
+"bt_sw/mainline: Initial Import"
+------------------------------------------------------------------------

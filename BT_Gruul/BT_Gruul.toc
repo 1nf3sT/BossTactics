@@ -1,0 +1,16 @@
+﻿## Interface: 20400
+## Title: BossTactics|cffdf6003[Gruul]|r
+## Notes: Gruul instance module for BossTactics.
+## Notes-deDE: Gruul Instanzmodul für BossTactics.
+## Author: Sorontur, Vonswan
+## Version: 1.0
+## LoadOnDemand: 1
+## RequiredDeps: BossTactics
+## OptionalDeps:Ace3
+## X-Embeds: Ace3
+## X-Category: Raid
+## SavedVariables: BT_GruulDB
+
+Locale-enUS.lua
+Locale-deDE.lua
+BT_Gruul.lua

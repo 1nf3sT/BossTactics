@@ -1,0 +1,16 @@
+## Interface: 20400
+## Title: BossTactics|cffdf6003[The Eye]|r
+## Notes: The Eye instance module for BossTactics.
+## Notes-deDE: Das Auge Instanzmodul für BossTactics.
+## Author: Sorontur, Casora, Vonswan
+## Version: 0.1
+## LoadOnDemand: 1
+## RequiredDeps: BossTactics
+## OptionalDeps:Ace3
+## X-Embeds: Ace3
+## X-Category: Raid
+## SavedVariables: BT_EyeDB
+
+Locale-enUS.lua
+Locale-deDE.lua
+BT_Eye.lua

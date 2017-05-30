@@ -1,0 +1,16 @@
+## Interface: 20400
+## Title: BossTactics|cffdf6003[Mount Hyjal]|r
+## Notes: MH instance module for BossTactics.
+## Notes-deDE: MH Instanzmodul für BossTactics.
+## Author: Sorontur, Vonswan
+## Version: 0.1
+## LoadOnDemand: 1
+## RequiredDeps: BossTactics
+## OptionalDeps:Ace3
+## X-Embeds: Ace3
+## X-Category: Raid
+## SavedVariables: BT_MHDB
+
+Locale-enUS.lua
+Locale-deDE.lua
+BT_MH.lua

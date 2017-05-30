@@ -1,0 +1,17 @@
+﻿## Interface: 20400
+## Title: BossTactics|cffdf6003[Sunwell]|r
+## Notes: Sunwell instance module for BossTactics, backported to 2.4.3 by Healserino from Excalibur TBC.
+## Notes-deDE: Sonnenbrunnenplateau Instanzmodul für BossTactics.
+## Author: Sorontur, Vonswan
+## Version: 1.0
+## LoadOnDemand: 1
+## RequiredDeps: BossTactics
+## OptionalDeps:Ace3
+## X-Embeds: Ace3
+## X-Category: Raid
+## SavedVariables: BT_SWDB
+## X-Curse-Packaged-Version: r4
+
+Locale-enUS.lua
+Locale-deDE.lua
+BT_SW.lua
